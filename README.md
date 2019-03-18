@@ -5,6 +5,23 @@ It is a simple FrameLayout with ImageView and LottieAnimationView inside it.
 
 It supports all Lottie and ImageView XML attributes.
 
+## Download
+
+Gradle:
+```groovy
+implementation "com.clzola:glottie:1.0.0"
+```
+
+Maven:
+```xml
+<dependency>
+  <groupId>com.clzola</groupId>
+  <artifactId>glottie</artifactId>
+  <version>1.0.0</version>
+  <type>pom</type>
+</dependency>
+```
+
 ## Usage
 
 In XML file:
