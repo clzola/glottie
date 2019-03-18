@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GlottieView">
+        <!-- Lottie related attributes -->
+        <attr name="lottie_fileName"/>
+        <attr name="lottie_loop"/>
+        <attr name="lottie_repeatMode"/>
+        <attr name="lottie_scale"/>
+        <attr name="lottie_speed"/>
+        <attr name="lottie_renderMode"/>
+
+        <!-- Image related attributes -->
+        <attr name="adjustViewBounds"/>
+        <attr name="baseline"/>
+        <attr name="baselineAlignBottom"/>
+        <attr name="cropToPadding"/>
+        <attr name="maxHeight"/>
+        <attr name="maxWidth"/>
+        <attr name="scaleType"/>
+        <attr name="tint"/>
+        <attr name="tintMode"/>
+    </declare-styleable>
+</resources>
