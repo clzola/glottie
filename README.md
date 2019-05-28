@@ -9,7 +9,7 @@ It supports all Lottie and ImageView XML attributes.
 
 Gradle:
 ```groovy
-implementation "com.clzola:glottie:1.0.0"
+implementation "com.clzola:glottie:1.3.0"
 ```
 
 Maven:
@@ -17,7 +17,7 @@ Maven:
 <dependency>
   <groupId>com.clzola</groupId>
   <artifactId>glottie</artifactId>
-  <version>1.0.0</version>
+  <version>1.3.0</version>
   <type>pom</type>
 </dependency>
 ```
