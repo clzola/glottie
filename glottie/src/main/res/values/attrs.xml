@@ -10,13 +10,13 @@
         <attr name="lottie_renderMode"/>
 
         <!-- Image related attributes -->
-        <attr name="adjustViewBounds"/>
-        <attr name="baseline"/>
-        <attr name="baselineAlignBottom"/>
-        <attr name="cropToPadding"/>
-        <attr name="maxHeight"/>
-        <attr name="maxWidth"/>
-        <attr name="scaleType"/>
+        <attr name="android:adjustViewBounds"/>
+        <attr name="android:baseline"/>
+        <attr name="android:baselineAlignBottom"/>
+        <attr name="android:cropToPadding"/>
+        <attr name="android:maxHeight"/>
+        <attr name="android:maxWidth"/>
+        <attr name="android:scaleType"/>
         <attr name="tint"/>
         <attr name="tintMode"/>
     </declare-styleable>
